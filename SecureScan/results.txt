@@ -1,2 +1,0 @@
-[+] Port 80    | OPEN | HTTP       | No banner
-[+] Port 443   | OPEN | HTTPS      | No banner
